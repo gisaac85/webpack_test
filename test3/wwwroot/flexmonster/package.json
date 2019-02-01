@@ -1,0 +1,55 @@
+{
+  "_from": "flexmonster@2.6.4",
+  "_id": "flexmonster@2.6.4",
+  "_inBundle": false,
+  "_integrity": "sha512-tbxHB10wgFNyfT69EDxhL+9n/v/nAbGog9uT6+GZG5DIuLkGr8WecYPciXAkkID8L8VazFPAJ5WTfPly/q1uaQ==",
+  "_location": "/flexmonster",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "flexmonster@2.6.4",
+    "name": "flexmonster",
+    "escapedName": "flexmonster",
+    "rawSpec": "2.6.4",
+    "saveSpec": null,
+    "fetchSpec": "2.6.4"
+  },
+  "_requiredBy": [
+    "/",
+    "/ng-flexmonster"
+  ],
+  "_resolved": "https://olbico.pkgs.visualstudio.com/_packaging/Olbico/npm/registry/flexmonster/-/flexmonster-2.6.4.tgz",
+  "_shasum": "9e37b249edbad9f12b06cb6358afb74e3af9b64d",
+  "_spec": "flexmonster@2.6.4",
+  "_where": "C:\\Users\\gisaac\\source\\repos\\test3\\test3",
+  "author": {
+    "name": "Flexmonster"
+  },
+  "bugs": {
+    "url": "https://flexmonster.com/forum/"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Pivot table component for web reporting. The most powerful JavaScript tool to visualize your business data.",
+  "homepage": "https://flexmonster.com",
+  "keywords": [
+    "pivot",
+    "pivot table",
+    "pivot grid",
+    "pivot charts",
+    "analytics",
+    "reporting",
+    "mysql",
+    "msas",
+    "analysis services",
+    "csv",
+    "json",
+    "BI",
+    "business intelligence"
+  ],
+  "license": "https://www.flexmonster.com/terms/Flexmonster-Terms-and-Conditions.pdf",
+  "main": "flexmonster.full.js",
+  "name": "flexmonster",
+  "version": "2.6.4"
+}

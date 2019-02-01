@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@**@
+
+<p>Use this area to provide additional information.</p>
+<button class="btn-link">Hoi from Webpack</button>
+
+@section scripts {
+    <script src="~/dist/polyfills.bundle.js" asp-append-version="true"></script>
+    <script src="~/dist/vendors.chunk.js" asp-append-version="true"></script>
+    <script src="~/flexmonster/flexmonster.js"></script>
+    <script src="~/dist/app.bundle.js" asp-append-version="true"></script>
+}
